@@ -6,7 +6,7 @@
 
   <groupId>org.drorb</groupId>
   <artifactId>hello-world-next-gen</artifactId>
-  <version>8.0</version>
+  <version>9.0</version>
   <packaging>jar</packaging>
 
   <name>hello-world</name>
