@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.drorb</groupId>
-  <artifactId>hello-world</artifactId>
-  <version>7.0</version>
+  <artifactId>hello-world-next-gen</artifactId>
+  <version>8.0</version>
   <packaging>jar</packaging>
 
   <name>hello-world</name>
